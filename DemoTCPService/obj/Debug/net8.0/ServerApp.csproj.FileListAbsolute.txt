@@ -1,0 +1,14 @@
+C:\PRN222lab1\DemoTCPService\bin\Debug\net8.0\ServerApp.exe
+C:\PRN222lab1\DemoTCPService\bin\Debug\net8.0\ServerApp.deps.json
+C:\PRN222lab1\DemoTCPService\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+C:\PRN222lab1\DemoTCPService\bin\Debug\net8.0\ServerApp.dll
+C:\PRN222lab1\DemoTCPService\bin\Debug\net8.0\ServerApp.pdb
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.dll
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\refint\ServerApp.dll
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.pdb
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+C:\PRN222lab1\DemoTCPService\obj\Debug\net8.0\ref\ServerApp.dll

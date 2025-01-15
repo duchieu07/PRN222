@@ -1,0 +1,14 @@
+C:\PRN222lab1\Demonstration\bin\Debug\net8.0\UDPServerApp.exe
+C:\PRN222lab1\Demonstration\bin\Debug\net8.0\UDPServerApp.deps.json
+C:\PRN222lab1\Demonstration\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+C:\PRN222lab1\Demonstration\bin\Debug\net8.0\UDPServerApp.dll
+C:\PRN222lab1\Demonstration\bin\Debug\net8.0\UDPServerApp.pdb
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.dll
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\refint\UDPServerApp.dll
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.pdb
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+C:\PRN222lab1\Demonstration\obj\Debug\net8.0\ref\UDPServerApp.dll

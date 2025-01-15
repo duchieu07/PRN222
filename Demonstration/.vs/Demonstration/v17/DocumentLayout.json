@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PRN222lab1\\Demonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF0FC29-69FD-4796-885C-E99B88908B25}|UDPServerApp.csproj|c:\\prn222lab1\\demonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF0FC29-69FD-4796-885C-E99B88908B25}|UDPServerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2B2EB-9723-4951-BD51-26DA171963DA}|..\\UDPClientApp\\UDPClientApp.csproj|c:\\prn222lab1\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C2B2EB-9723-4951-BD51-26DA171963DA}|..\\UDPClientApp\\UDPClientApp.csproj|c:\\prn222lab1\\udpclientapp\\udpclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UDPClientApp.csproj",
+              "DocumentMoniker": "C:\\PRN222lab1\\UDPClientApp\\UDPClientApp.csproj",
+              "RelativeDocumentMoniker": "..\\UDPClientApp\\UDPClientApp.csproj",
+              "ToolTip": "C:\\PRN222lab1\\UDPClientApp\\UDPClientApp.csproj",
+              "RelativeToolTip": "..\\UDPClientApp\\UDPClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T02:32:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PRN222lab1\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UDPClientApp\\Program.cs",
+              "ToolTip": "C:\\PRN222lab1\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "..\\UDPClientApp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:30:31.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PRN222lab1\\Demonstration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PRN222lab1\\Demonstration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:28:14.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
