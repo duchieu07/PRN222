@@ -40,5 +40,10 @@ namespace Lab2_HttpClient
                 MessageBox.Show($"Message : {ex.Message}");
             }
         }
+
+        private void btnClose_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

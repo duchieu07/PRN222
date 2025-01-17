@@ -12,3 +12,4 @@ C:\PRN222lab1\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
 C:\PRN222lab1\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
 C:\PRN222lab1\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
 C:\PRN222lab1\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll
+C:\PRN222lab1\UDPClientApp\obj\Debug\net8.0\UDPClientApp.sourcelink.json

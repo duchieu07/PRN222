@@ -1,0 +1,14 @@
+C:\PRN222-Demonstration\Demonstration_04\bin\Debug\net8.0\Demonstration_04.exe
+C:\PRN222-Demonstration\Demonstration_04\bin\Debug\net8.0\Demonstration_04.deps.json
+C:\PRN222-Demonstration\Demonstration_04\bin\Debug\net8.0\Demonstration_04.runtimeconfig.json
+C:\PRN222-Demonstration\Demonstration_04\bin\Debug\net8.0\Demonstration_04.dll
+C:\PRN222-Demonstration\Demonstration_04\bin\Debug\net8.0\Demonstration_04.pdb
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.AssemblyInfoInputs.cache
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.AssemblyInfo.cs
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.csproj.CoreCompileInputs.cache
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.dll
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\refint\Demonstration_04.dll
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.pdb
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\Demonstration_04.genruntimeconfig.cache
+C:\PRN222-Demonstration\Demonstration_04\obj\Debug\net8.0\ref\Demonstration_04.dll
